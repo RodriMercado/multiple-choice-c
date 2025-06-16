@@ -1,0 +1,100 @@
+0001, Chaco, Cordoba, Buenos Aires, La Plata, 3
+0002, Tampere, Turku, Oulu, Helsinki, 4
+0003, Rio de Janeiro, Brasilia, Sao Paulo, Boa Vista, 2
+0004, Berlin, Dortmund, Munich, Hamburgo, 1
+0005, Santiago de Chile, La Serena, Iquique, Antofagasta, 1
+0006, La Guaira, Caracas, Maracaibo, Bolivar, 2
+0007, Malmo, Estocolmo, Gotemburgo, Upsala, 2
+0008, Shangai, Wuhan, Shenzhen, Pekin, 4
+0009, Washington, Miami, Los Angeles, Ohio, 1
+0010, Montreal, Alaska, Toronto, Ottawa, 4
+0011, Nilo, Misisipi, Amazonas,Yangtse, 1
+0012, Rusia,China,Brasil,Estados Unidos, 2
+0013, Asia, Oceania, Africa, America Central, 3
+0014, Emiratos Arabes, Arabia Saudita, Qatar, Jordania, 1
+0015, Milan,Roma,Turin,Venecia, 2
+0016, Dinamarca,Finlandia,Noruega,Todas son correctas, 4
+0017, Europa,America,Asia,Africa, 3
+0018, Tokio,Delhi,Yakarta,Shanghai, 1
+0019, Senegal,Republica del Congo,Tanzania,Guinea, 1
+0020, Monte Everest,Himalaya,Lhotse,Makalu, 1
+0021, Oceano Atlantico,Oceano Pacifico,Oceano Artico,Oceano Indico, 2
+0022, Italia,Alemania,Francia,Portugal, 3
+0023, 1914,1916,1918,1920, 1
+0024, 1937,1939,1941,1943, 2
+0025, Agosto,Septiembre,Octubre,Noviembre, 2
+0026, Rio Sena,Rio Loira,Rio Charente,Rio Garona, 1
+0027, Eslovaquia,Eslovenia,Estonia,Republica Checa, 1
+0028, Nelson Mandela,Cyril Ramaphosa,Jacob Gedleyihlekisa Zuma,Todas son Correctas, 4
+0029, Mar Caspio,Lago Superior,Lago Victoria,Lago Huron, 1
+0030, Marruecos,Portugal,Italia,Austria, 2
+0031, Mexico,Brasil,Peru,Colombia, 2
+0032, 1787,1788,1789,1790, 3
+0033, 1490,1492,1494,1496, 2
+0034, Sudafrica,Nigeria,Costa de Marfil,Marruecos, 2
+0035, EEUU y Rusia, Canada y EEUU, Rusia y Marruecos, Islandia y Rusia, 1
+0036, 550 KM, 560 KM, 570 KM, 580 KM, 2
+0037, Boa vista, Curitiba, Sao Paulo, Bahia, 1
+0038, Catamarca,Misiones,San Luis, Jujuy, 2
+0039, California,Texas, Los Angeles, Ohio, 1
+0040, 1993, 1994, 1995, 1996, 2
+0041, Israeli,Hebreo,Ingles,Arabe, 2
+0042, Yemen, Zambia, Somalia, Seychelles, 1
+0043, Suva, Yamusukro, Lagos, Abuja, 3
+0044, Reikiavik,Akureyri,Reykjanesbaer,Egilsstaoir, 1
+0045, EE.UU,Irak,Siria,Todas son correctas,4
+0046, 9.0 de Magnitud,9.1 de Magnitud,9.2 de Magnitud,9.3 de Magnitud, 2
+0047, 1809,1810,1811,1812, 2
+0048, Jorge Bergoglio, Joseph Ratzinger, Albino Luciani, Angelo Roncalli, 1
+0049, China,India,Japon,Corea del sur, 3
+0050, 2001,2010,2015,2020, 3
+0051, Vin Diesel, Paul Walker, Dwayne Jhonson, Tyrese Gibson, 1
+0052, 2011,2012,2013,2014, 3
+0053, Chadwick Boseman, Winston Duke, Daniel Kaluuya, Sterling K. Brown, 1
+0054, 1980,1982, 1984, 1986, 2
+0055, 7 Temporadas, 8 Temporadas, 9 Temporadas, 10 Temporadas,2
+0056, El secreto de sus ojos, El hijo de la novia, Carancho, La tregua, 3
+0057, Robert Downey Jr, Chris Evans, Willem Dafoe, Ryan Reynolds, 1
+0058, Argentino, Chileno, Colombiano, Mexicano, 2
+0059, Harrison Ford, Heath Ledger, Clark Gable, Ninguna de las anteriores, 1
+0060, Game of thrones, Vikingos,Frasier, ER (Emergency Room), 1
+0061, Game of thrones, The Withcher, Las Cronicas de shannara, Vikingos, 2
+0062, Better Call Saul, World Beyond, Dead City, Daryl Dixon, 1
+0063, Daniel Radcliffe,Rupert Grint,Tom Felton, Elijah Wood, 1
+0064, Ross, Chandler, Monica, Joey, 3
+0065, Star Trek, Star Wars, Guardians of the Galaxy, The Matrix, 2
+0066, Walter White, Jesse Pinkman, Hank Schrader, Saul Goodman, 1
+0067, Leonardo DiCaprio, Tom Hanks, Johnny Depp, Brad Pitt, 1
+0068, Jon Snow, Tyrion Lannister, Sandor Clegane, Jorah Mormont, 3
+0069, Iron Man, Thor, Captain America: The First Avenger, The Avengers, 1
+0070, Michael, Sonny, Vito, Fredo, 3
+0071, Black Mirror, Stranger Things, The Crown, Westworld, 1
+0072, Toy Story, Up, Wall-E, Finding Nemo, 4
+0073, Emma Watson, Emma Stone, Keira Knightley, Natalie Portman,1
+0074, Rick Grimes, Daryl Dixon, Negan, Hershel Greene, 1
+0075, Pulp Fiction, The Martian, Inception, The Revenant, 1
+0076, Breaking Bad, Narcos, The Wire, The Sopranos, 1
+0077, Toy Story, Shrek, Madagascar, Ice Age, 1
+0078, Jennifer Lawrence, Jennifer Aniston, Julia Roberts, Reese Witherspoon, 1
+0079, Mad Men, The Crown, Suits, The Big Bang Theory, 1
+0080, Demogorgon, Demodog, Mind Flayer, Demowolf, 1
+0081, Tony Stark, Steve Rogers, Bruce Banner, Ninguno de los anteriores, 3
+0082, Gene Wilder,Johnny Depp,Robin Williams,Jim Carrey, 1
+0083, Benedict Cumberbatch, Martin Freeman, David Tennant, Robert Downey Jr, 1
+0084, Claire Foy, Olivia Colman, Helen Mirren, Judi Dench, 1
+0085, R2-D2,C-3PO,EVE,M-O, 3
+0086, Principe Felipe, Principe Harry,Principe William,Principe Charles, 1
+0087, Scar, Mufasa, Simba, Rafiki, 1
+0088, Time Jumper, Time Machine, DeLorean, Time Traveler, 3
+0089, Downton Abbey,Peaky Blinders,The Sopranos,Sons of Anarchy, 2
+0090, Natasha Romanoff,Carol Danvers, Wanda Maximoff, Peggy Carter, 1
+0091, Peter Parker,Scott Summers,Wade Wilson,Tony Stark, 3
+0092, Rollo,Bjorn Ironside,Floki,Ragnar Lothbrok, 4
+0093, Jim Halpert,Dwight Schrute,Michael Scott,Andy Bernard, 3
+0094, Steven Spielberg,Christopher Nolan,Peter Jackson,George Lucas, 3
+0095, Spider-Man,Batman,Superman,Iron Man, 3
+0096, Emilia Clarke,Kit Harington,Peter Dinklage,Nikolaj Coster-Waldau, 2
+0097, El Padrino, Titanic,Romeo y Julieta,Jurassic Park, 3
+0098, Boba Fett,Han Solo,Din Djarin,Lando Calrissian, 3
+0099, Encontrar un refugio seguro,Encontrar una cura para la enfermedad,Escapar de una organizacion militar,Vengar la muerte de sus padres, 2
+0100, Ellen Page,Maisie Williams,Bella Ramsey,Millie Bobby Brown, 3

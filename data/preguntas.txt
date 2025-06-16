@@ -1,0 +1,100 @@
+0001, Cual es la capital de Argentina?
+0002, Cual es la capital de Finlandia?
+0003, Cual es la capital de Brasil?
+0004, Cual es la capital de Alemania?
+0005, Cual es la capital de Chile?
+0006, Cual es la capital de Venezuela?
+0007, Cual es la capital de Suecia?
+0008, Cual es la capital de China?
+0009, Cual es la capital de Estados Unidos?
+0010, Cual es la capital de Canada?
+0011, Cual es el Rio mas grande del mundo?
+0012, Que pais tiene mas habitantes?
+0013, En que continente se encuentra Madagascar?
+0014, En que pais esta ubicada la ciudad de Abu Dhabi?
+0015, Ciudad italiana donde esta ubicado el Vaticano
+0016, Cual de estos paises limita con Suecia?
+0017, Que continente es el mas poblado?
+0018, Cual es la ciudad mas poblada del mundo?
+0019, El que pais se encuentra la ciudad de Dakar?
+0020, Cual es la montania mas alta del mundo ?
+0021, Cual es el oceano mas grande de la Tierra?
+0022, En que pais se encuentra la Torre Eiffel? 
+0023, En que anio comenzo la primera guerra mundial?
+0024, En que anio comenzo la segunda guerra mundial?
+0025, En que mes fue la caida de las torres gemelas?
+0026, Que rio pasa por Paris?
+0027, De que pais es capital Bratislava?
+0028, Quienes han sido presidente de Sudafrica?
+0029, Cual es el lago mas grande del mundo?
+0030, En que pais se encuentra la Torre de Belem?
+0031, En donde esta ubicado el cristo redentor?
+0032, En que anio comenzo la revolucion francesa?
+0033, En que anio se descubrio America?
+0034, Cual es el pais mas poblado de Africa?
+0035, Entre que territorios se encuentra el estrecho Bering?
+0036, Que longitud tiene el canal de la mancha?
+0037, Ciudad de brasil que limita con venezuela
+0038, En que provincia Argentina se encuentra las cataratas del Iguazu?
+0039, Cual es el estado mas problado de Estados Unidos?
+0040, En que anio se realizo ultima reforma de la constitucion Argentina?
+0041, Cual es el idioma nativo de Israel?
+0042, Cual de estos paises no pertenece a Africa?
+0043, Cual de estas ciudades no pertenece a una capital de un Pais?
+0044, Cual es la capital de Islandia? 
+0045, Que paises participaron de la Guerra del Golfo?
+0046, De que magnitud fue el terremoto de japon en 2011?
+0047, En que anio ocurrio la revolucion de mayo?
+0048, Como es el nombre del papa francisco?
+0049, Cual de los siguientes paises es conocido como "La Tierra del Sol Naciente"?
+0050, En que anio se firmo el Acuerdo de Paris ?
+0051, Como se llama el actor que interpreta a Toretto en la pelicula 'Rapido y furioso'?
+0052, En que anio fallecio el actor Paul Walker?
+0053, Como se llama el actor que interpreto a Black Panther?
+0054, Cuando se estreno la pelicula Rocky III ?
+0055, De cuantas temporadas consta la serie Arrow ?
+0056, Cual pelicula no fue nominada nunca a los Premios Oscar?
+0057, Que actor es conocido por su papel como Tony Stark en el Universo Cinematografico de Marvel?
+0058, Cual es la nacionalidad del actor que interpreta a Joel en la serie The Last of us?
+0059, Que actor interpreto a 'Indiana Jones' en la saga de dicha pelicula?
+0060, Cual es la serie mas premiada de la historia?
+0061, En que serie aparece el personaje de Geralt de Rivia?
+0062, Cual de todos no es un Spin-off de The Walking Dead?
+0063, Quien interpreto a Harry Potter en las peliculas?
+0064, En la serie 'Friends' que personaje trabaja como chef?
+0065, En que pelicula famosa aparece el personaje Darth Vader?
+0066, Cual es el nombre del protagonista en la serie 'Breaking Bad'?
+0067, Que actor interpreto a Jack Dawson en la pelicula 'Titanic'?
+0068, En 'Game of Thrones' quien es conocido como "El Perro"?
+0069, Cual es la primera pelicula del Universo Cinematografico de Marvel?
+0070, En la pelicula 'El Padrino' quien es el padrino de la familia Corleone?
+0071, Titulo de la serie de ciencia ficcion ambientada en un futuro distopico creada por Charlie Brooker
+0072, En que pelicula de Pixar aparece un pez payaso llamado Marlin?
+0073, Quien interpreto a Hermione Granger en las peliculas de 'Harry Potter'?
+0074, En la serie 'The Walking Dead' quien es el lider del grupo en la prision?
+0075, Cual de las siguientes peliculas fue dirigida por Quentin Tarantino?
+0076, Que serie de television trata sobre un profesor de quimica que se convierte en un narcotraficante?
+0077, En que pelicula animada aparece el personaje Buzz Lightyear?
+0078, Quien interpreto a Katniss Everdeen en la serie de peliculas 'Los juegos del hambre'?
+0079, Que serie de television esta ambientada en el mundo de la publicidad en los 60?
+0080, En 'Stranger Things' que criatura aterradora viene del otro Lado?
+0081, En 'Los Vengadores' quien es el cientifico que se convierte en Hulk?
+0082, Que actor interpreto a Willy Wonka en 'Charlie y la fabrica de chocolate'?
+0083, En la serie 'Sherlock' quien interpreta a Sherlock Holmes?
+0084, En 'The Crown' quien interpreta a la Reina Isabel II en las primeras temporadas?
+0085, Cual es el nombre del robot que se convierte en el mejor amigo del protagonista en 'Wall-E'?
+0086, En 'The Crown' quien es el esposo de la Reina Isabel II?
+0087, Cual es el nombre del villano en 'El Rey Leon'?
+0088, En la pelicula 'Volver al futuro' como se llama la maquina del tiempo?
+0089, Serie que sigue la vida de una familia criminal en Inglaterra despues de la Primera Guerra Mundial
+0090, En 'Los Vengadores'cual es el verdadero nombre de Black Widow?
+0091, Cual es el nombre del protagonista en 'Deadpool'?
+0092, En la serie 'Vikingos' quien es el protagonista que busca explorar nuevas tierras?
+0093, En la serie 'The Office' quien es el incompetente jefe de la oficina de Dunder Mifflin?
+0094, Quien dirigio la trilogia de 'El Senior de los Anillos'?
+0095, Cual de los siguientes superheroes es conocido como el 'Hombre de Acero'?
+0096, Quien interpreta a Jon Snow en la popular serie de television 'Game of Thrones'?
+0097, Cual de las siguientes peliculas es una adaptacion de una obra de William Shakespeare?
+0098, En 'The Mandalorian' como se llama el personaje principal interpretado por Pedro Pascal?
+0099, En la serie 'The last of us', cual es el objetivo principal de Joel y Ellie?
+0100, Quien interpreta el papel de Ellie en la adaptacion televisiva de 'The Last of Us'?
