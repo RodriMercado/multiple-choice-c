@@ -1,6 +1,4 @@
 # multiple-choice-c
-University project: console-based multiple-choice quiz app built with C
-
 This is a university project implemented in C that simulates a multiple-choice quiz system. The program allows you to load questions, read player answers, and calculate scores.
 
 ---
